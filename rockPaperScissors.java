@@ -1,5 +1,4 @@
-/**Rajan Mehrpanah
- * October 25 2020
+/*
  * Rock Paper Scissors Assignment
  */
 
