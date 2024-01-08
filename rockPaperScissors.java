@@ -1,6 +1,4 @@
-/*
- * Rock Paper Scissors Assignment
- */
+
 
 package rPSGame;
 import java.util.Random;
